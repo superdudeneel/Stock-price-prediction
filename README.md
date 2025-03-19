@@ -45,4 +45,4 @@ The script generates a graph comparing actual stock prices with predicted values
 ## License
 This project is open-source under the MIT License.
 
-![Stock Price Prediction](prediction_plot.png)
+![Stock Price Prediction](myplot.png)
