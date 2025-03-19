@@ -42,7 +42,10 @@ The script generates a graph comparing actual stock prices with predicted values
 - Incorporate more technical indicators like RSI, MACD.
 - Tune hyperparameters for better accuracy.
 
-## License
-This project is open-source under the MIT License.
+  
+## Note for the users
+-You can use other datasets also for other stocks 
+-This is for predicting the movement of the reliance stock price only
+
 
 ![Stock Price Prediction](myplot.png)
